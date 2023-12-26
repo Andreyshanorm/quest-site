@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    /* Временно */
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+li{
+    text-decoration: none;
+    list-style: none;
+}
+
+.container{
+    max-width: 100%;
+    margin: 0 auto;
+}

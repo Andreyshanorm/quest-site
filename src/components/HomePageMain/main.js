@@ -1,5 +1,5 @@
 import Header from "../header/header";
-import './main.css'
+import '../../globalStyle.css'
 
 
 function HomePageMain() {
